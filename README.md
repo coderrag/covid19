@@ -1,2 +1,2 @@
 # covid19
-The project is deployed in https://vishnurag.herukoapp.com
+The project is deployed in https://vishnurag.herokuapp.com/
